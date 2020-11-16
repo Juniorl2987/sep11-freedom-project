@@ -1,11 +1,11 @@
 # SEP11 Freedom Project
-by X
+by Junior Li
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about Java script. The purpose of this blog is to demonstrate my progress through entries.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making an app that records the users plans, homeworks/assignments. This blog will walk through my process of independently studying Firebase in order to make my app called Quests.
 
 ## Links
 
@@ -14,7 +14,7 @@ Product
 Presentation
 
 ## Implications
-X
+Overall, this app I'm planning to make will help me and others to be organized in our daily lives.
 
 ---
 
