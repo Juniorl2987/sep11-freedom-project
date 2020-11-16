@@ -13,7 +13,7 @@ Websites I'm using to learn:
 
 I'm currently researching about Firebase, things like firestore, to store data in order to code my app.
 
-The tool I decided on is Firebase. I'm planning to make an app to store data, things like trip planner, homeworks, assignment and ideas.
+The tool I decided on is Firebase. I'm planning to make an app to store data, things like trip plans, homeworks, assignment and ideas.
 
 Skills that I'm developing are time managment and growth mindset.
 
