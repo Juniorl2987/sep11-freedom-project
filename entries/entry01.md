@@ -3,8 +3,11 @@
 
 Websites I'm using to learn:
 *https://firebase.google.com/?gclid=Cj0KCQiA48j9BRC-ARIsAMQu3WTiZg99MZ3QU2A-NbpwGDd7aL57roK7qe6S9YGragfW51Pi09WcLJ0aAtRwEALw_wcB
+
 *https://firebase.google.com/products/firestore
+
 *https://firebase.google.com/docs/web/setup
+
 *https://www.youtube.com/c/firebase/videos
 
 I'm currently researching about Firebase, things like firestore, to store data in order to code my app.
