@@ -19,7 +19,7 @@ To begin with, I tried to [setup][website1] [Firebase][website2] into repl, and 
 >      </head>
 
 
-According to the EDP, I'm in part 5, create a prototype, you can see in the code above, I currently only know how to set up and the basics of Authentication.
+According to the EDP, I'm in part 5, create a prototype, you can see in the code above, I currently only know how to set up and the basics of Authentication. The only thing I need to do to finish setting it up is to add a sign in button and set up firestorm.
 
 What I'm trying to make is a web app in which I can record data using Firebase.
 This web app consists of certain ideas, a homework tracker, a trip planner, and just to record things in general like goals and ideas similar to NotePad.
