@@ -4,21 +4,21 @@
 To begin with, I tried to <a href="https://fireship.io/lessons/firebase-quickstart/">set up</a> <a href="https://console.firebase.google.com/u/0/">Firebase</a> into repl, and got to the part where I was coding out the Authentication using a frame:
 
 <!-- The core Firebase JS SDK is always required and must be listed first -->
-*<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>*
+>*<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>*
 
 <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#available-libraries -->
-<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js"></script>
+>*<script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js"></script>*
 
-<script>
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  var firebaseConfig = {
-  };
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
-  firebase.analytics();
-</script>*
+>*<script>
+>  // Your web app's Firebase configuration
+>  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+>  var firebaseConfig = {
+>  };
+>  // Initialize Firebase
+>  firebase.initializeApp(firebaseConfig);
+>  firebase.analytics();
+></script>*
 
 According to the EDP, I'm in part 5, create a prototype, you can see in the code above, I currently only know how to set up and the basics of Authentication.
 
